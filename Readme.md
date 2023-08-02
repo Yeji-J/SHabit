@@ -1,8 +1,6 @@
-# <img src="image/pngwing.com.png" width="50px"> SHabit - 올바른 자세 습관을 만들도록 도와주는 사이트
+# <img src="image/pngwing.com.png" width="50px"> SHabit - 바른 자세 교정 솔루션
 
 <img src="image/logo2.png" width="100%"/>
-
-
 
 ## SHabit 링크(웹사이트) : [SHabit](https://shabit.site/)
 ## 소개 영상 보기 : [UCC 링크]()
